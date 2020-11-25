@@ -1,2 +1,1 @@
-# csharp
-c# repository
+# GeekBrains training course repository
