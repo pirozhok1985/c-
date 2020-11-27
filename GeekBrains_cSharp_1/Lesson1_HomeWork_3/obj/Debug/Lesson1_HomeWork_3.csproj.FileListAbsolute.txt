@@ -1,0 +1,7 @@
+C:\Users\Pirozhok\OneDrive\Documents\Visual Studio 2019\GeekBrains\CSharp_1\GeekBrains_cSharp_1\Lesson1_HomeWork_3\bin\Debug\Lesson1_HomeWork_3.exe.config
+C:\Users\Pirozhok\OneDrive\Documents\Visual Studio 2019\GeekBrains\CSharp_1\GeekBrains_cSharp_1\Lesson1_HomeWork_3\bin\Debug\Lesson1_HomeWork_3.exe
+C:\Users\Pirozhok\OneDrive\Documents\Visual Studio 2019\GeekBrains\CSharp_1\GeekBrains_cSharp_1\Lesson1_HomeWork_3\bin\Debug\Lesson1_HomeWork_3.pdb
+C:\Users\Pirozhok\OneDrive\Documents\Visual Studio 2019\GeekBrains\CSharp_1\GeekBrains_cSharp_1\Lesson1_HomeWork_3\obj\Debug\Lesson1_HomeWork_3.csproj.CoreCompileInputs.cache
+C:\Users\Pirozhok\OneDrive\Documents\Visual Studio 2019\GeekBrains\CSharp_1\GeekBrains_cSharp_1\Lesson1_HomeWork_3\obj\Debug\Lesson1_HomeWork_3.exe
+C:\Users\Pirozhok\OneDrive\Documents\Visual Studio 2019\GeekBrains\CSharp_1\GeekBrains_cSharp_1\Lesson1_HomeWork_3\obj\Debug\Lesson1_HomeWork_3.pdb
+C:\Users\Pirozhok\OneDrive\Documents\Visual Studio 2019\GeekBrains\CSharp_1\GeekBrains_cSharp_1\Lesson1_HomeWork_3\obj\Debug\Lesson1_HomeWork_3.csprojAssemblyReference.cache
