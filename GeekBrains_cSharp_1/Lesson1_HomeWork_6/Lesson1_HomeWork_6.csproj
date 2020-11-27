@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{001C3D10-C25B-4859-9982-ABDB5B52B3CA}</ProjectGuid>
+    <ProjectGuid>{2DEFEE2F-6AE6-4F61-9EFB-1450B37C8164}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Lesson1_HomeWork</RootNamespace>
-    <AssemblyName>Lesson1_HomeWork</AssemblyName>
+    <RootNamespace>Lesson1_HomeWork_6</RootNamespace>
+    <AssemblyName>Lesson1_HomeWork_6</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,14 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\Lesson1_HomeWork_1\Program.cs">
-      <Link>Program.cs</Link>
-    </Compile>
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
