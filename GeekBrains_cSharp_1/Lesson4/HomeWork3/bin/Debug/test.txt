@@ -1,0 +1,2 @@
+login=user password=Qwerty123
+login=root password=GeekBrains
